@@ -20,7 +20,7 @@ a, a:visited{
 
 h2{
   font-size: 32px;
-  font-weight: bold
+  font-weight: bold;
 }
 
 h3{
@@ -38,7 +38,7 @@ h3{
     font-size: 14px;
   }
 
-#class{
+#class a, #class a:hover{
   text-align: left;
   font-size: 11px;
   color: white;
