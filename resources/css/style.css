@@ -9,6 +9,11 @@ h1{
   color: white;
 }
 
+#header{
+  background-image: url(./resources/images/the-flatiron-building.png);
+  background-color: SeaGreen;
+}
+
 .nav{
   font-size: 18px;
   color: white;
