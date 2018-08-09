@@ -20,4 +20,10 @@ a, a:visited{
 
 .header h3{
     color: white;
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  p{
+    font-size: 14px;
   }
