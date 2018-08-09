@@ -17,3 +17,7 @@ a, a:visited{
   font-size: 18px;
   color: white;
 }
+
+.header h3{
+    color: white;
+  }
