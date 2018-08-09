@@ -11,9 +11,10 @@ html{
 
 .header{
   background-image: url("../images/the-flatiron-building.png");
+    color: white;
 }
 
-.header .nav{
+.header, .nav{
   font-size: 18px;
   color: white;
 }
