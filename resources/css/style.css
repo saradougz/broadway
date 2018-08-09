@@ -37,3 +37,10 @@ h3{
   p{
     font-size: 14px;
   }
+
+#class{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
